@@ -13,3 +13,20 @@ Currently this is only so that I can work across computers.
 Currently I'm expecting a video that's referenced in the `extract_cube_faces.py`.
 You can get it [here](https://drive.google.com/file/d/1cegWtwOpHCYiQ4aypzh_ni9uc2dr2GVp/view?usp=drive_link).
 
+## 🐍 Python Setup
+
+Set up a Python virtual environment:
+
+```bash
+# Navigate to your project directory
+cd meshroom-workflow
+
+# Create a virtual environment
+python3 -m venv .venv
+
+# Activate it
+source .venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+
