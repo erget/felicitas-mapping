@@ -13,6 +13,9 @@ Currently this is only so that I can work across computers.
 Currently I'm expecting a video that's referenced in the `extract_cube_faces.py`.
 You can get it [here](https://drive.google.com/file/d/1cegWtwOpHCYiQ4aypzh_ni9uc2dr2GVp/view?usp=drive_link).
 
+You may also want to work with this repository if you're injecting spatial metadata into videos:
+https://github.com/google/spatial-media.git
+
 ## 🐍 Python Setup
 
 Set up a Python virtual environment:
@@ -29,4 +32,3 @@ source .venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
-
